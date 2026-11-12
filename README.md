@@ -12,6 +12,12 @@ A full-stack social media app built with Node.js, Express, MongoDB, and Cloudina
 - User profile page
 - Cloudinary image uploads
 
+## Binary image demo
+
+![Binary Upload Boom demo](./public/imgs/binary.png)
+
+This project lets users upload and share binary image content through a simple social media workflow.
+
 ## Tech Stack
 
 - Node.js
