@@ -2,6 +2,8 @@
 
 A full-stack social media app built with Node.js, Express, MongoDB, and Cloudinary. Users can sign up, log in, upload photos, view a feed, like posts, comment on posts, and manage their profile.
 
+## Deployed Link-> https://binary-upload-boom-agtc.onrender.com/
+
 ## Features
 
 - User authentication with Passport.js
